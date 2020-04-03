@@ -6,14 +6,10 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/claytonjones-401n16/lab-06/pull/1)
 - [Swagger Documentaion](https://app.swaggerhub.com/apis/clayton-jones/lab06/0.1)
 
 ### Setup
-
-#### `.env` requirements (where applicable)
-
-N/A
 
 #### How to initialize/run server
 - clone repo
@@ -23,4 +19,8 @@ N/A
 
 #### UML
 
-![]()
+![Lab 06](./assets/lab06UML.png)
+
+#### Passing React Application
+
+![Passing](./assets/reactPassing.png)

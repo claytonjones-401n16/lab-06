@@ -1,8 +1,8 @@
 {
   "openapi" : "3.0.1",
   "info" : {
-    "title" : "defaultTitle",
-    "description" : "defaultDescription",
+    "title" : "Lab 06 API",
+    "description" : "API for Code Fellows 401n16 JavaScript Lab 06",
     "version" : "0.1"
   },
   "servers" : [ {
